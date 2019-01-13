@@ -1,0 +1,863 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4e152534-aedd-43aa-b5b4-dcabf73b5271" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../EOlympMy/.idea/EOlympMy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EOlympMy/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EOlympMy/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EOlympMy/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EOlympMy/EOlympMySolution/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EOlympMy/EOlympMySolution/src/_26_to_50_percent_solution/MilkAndCake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule2HomeWork2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule2HomeWork2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule2HomeWork2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule2HomeWork2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule2HomeWork2/GoJavaModule2HomeWork2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule3HomeWork3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule3HomeWork3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule3HomeWork3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule4HomeWork4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule4HomeWork4/src/Task01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule4HomeWork4/src/Task02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule4HomeWork4/src/Task03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule4HomeWork4/src/Task04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule4HomeWork4/src/Task05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule4HomeWork4/src/Task06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule4HomeWork4/src/Task07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule5HomeWork5(1)/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule5HomeWork5(1)/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule5HomeWork5(1)/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule5HomeWork5(1)/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule5HomeWork5(1)/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule5HomeWork5(1)/GoJavaModule5HomeWork5(1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule5HomeWork5(2)/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule5HomeWork5(2)/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule5HomeWork5(2)/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule5HomeWork5(2)/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule5HomeWork5(2)/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule5HomeWork5(2)/GoJavaModule5HomeWork5(2).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule5HomeWork5(3)/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule5HomeWork5(3)/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule5HomeWork5(3)/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule5HomeWork5(3)/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule5HomeWork5(3)/GoJavaModule5HomeWork5(3).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule5HomeWork5(3)/src/Chamomile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule5HomeWork5(3)/src/FlowerStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule5HomeWork5(3)/src/Flowers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule5HomeWork5(3)/src/FlowersLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule5HomeWork5(3)/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule5HomeWork5(3)/src/Rose.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule5HomeWork5(3)/src/Tulip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule5HomeWork5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule5HomeWork5/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule5HomeWork5/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule5HomeWork5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule5HomeWork5/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule5HomeWork5/GoJavaModule5HomeWork5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule5HomeWork5/src/NewCar/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule5HomeWork5/src/NewCar/CarDoor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule5HomeWork5/src/NewCar/CarWheel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule5HomeWork5/src/NewCar/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule6HomeWork6/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule6HomeWork6/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule6HomeWork6/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule6HomeWork6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule6HomeWork6/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule6HomeWork6/GoJavaModule6HomeWork6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule6HomeWork6/src/MyArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule6HomeWork6/src/MyQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule6HomeWork6/src/MyStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule6HomeWork6/src/ShowTasks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule6HomeWork6/src/myLinkedList/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule6HomeWork6/src/myLinkedList/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule7HomeWork7/.idea/GoJavaModule7HomeWork7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule7HomeWork7/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule7HomeWork7/.idea/libraries/Maven__com_alibaba_fastjson_1_2_51.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule7HomeWork7/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule7HomeWork7/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule7HomeWork7/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule7HomeWork7/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule7HomeWork7/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule7HomeWork7/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule7HomeWork7/src/main/java/Delivery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule7HomeWork7/src/main/java/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule7HomeWork7/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule7HomeWork7/src/main/java/Shop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule7HomeWork7/src/main/java/files/MyFileReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule7HomeWork7/src/main/java/files/MyFileWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule7HomeWork7/src/main/java/files/deliveryFirst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule7HomeWork7/src/main/java/files/deliverySecond" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule7HomeWork7/src/main/java/files/storage" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule8HomeWork8(1)/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule8HomeWork8(1)/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule8HomeWork8(1)/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule8HomeWork8(1)/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule8HomeWork8(1)/GoJavaModule8HomeWork8(1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule8HomeWork8(1)/src/LibraryOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule8HomeWork8(1)/src/LibraryTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule8HomeWork8(2)/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule8HomeWork8(2)/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule8HomeWork8(2)/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule8HomeWork8(2)/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule8HomeWork8(2)/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule8HomeWork8(2)/GoJavaModule8HomeWork8(2).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule8HomeWork8(2)/src/SecondTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule8HomeWork8(2)/src/SecondTask_21_38.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule8HomeWork8(2)/src/SecondTask__.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule8HomeWork8(2)/src/firstTask/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule8HomeWork8(2)/src/firstTask/MyCallable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule9HomeWork9/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule9HomeWork9/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule9HomeWork9/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule9HomeWork9/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule9HomeWork9/GoJavaModule9HomeWork9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule9HomeWork9/lib/jfxrt.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule9HomeWork9/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule9HomeWork9/src/main/java/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule9HomeWork9/src/main/java/ResponseSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule9HomeWork9/src/main/java/Snippet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoJavaModule9HomeWork9/src/main/java/YouTubeAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDBC_2/Channel/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDBC_2/Channel/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDBC_2/Channel/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDBC_2/Channel/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDBC_2/Channel/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDBC_2/Channel/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDBC_2/Channel/Channel.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson03/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson03/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson03/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson03/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson03/Lesson03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson03/src/Cycles/СycleFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson03/src/Operators/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson04/Average/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson04/Average/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson04/Average/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson04/Average/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson04/Average/Average.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson04/Average/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson04/Olympiade/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson04/Olympiade/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson04/Olympiade/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson04/Olympiade/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson04/Olympiade/Olympiade.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson04/Olympiade/src/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson04/Salary/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson04/Salary/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson04/Salary/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson04/Salary/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson04/Salary/Salary.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson04/Salary/src/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson04/TwoNumbers/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson04/TwoNumbers/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson04/TwoNumbers/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson04/TwoNumbers/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson04/TwoNumbers/TwoNumbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson04/TwoNumbers/src/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson05_17.08/MinimumSumNumber/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson05_17.08/MinimumSumNumber/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson05_17.08/MinimumSumNumber/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson05_17.08/MinimumSumNumber/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson05_17.08/MinimumSumNumber/MinimumSumNumber.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson05_17.08/MinimumSumNumber/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson06_22.08/Calculator/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson06_22.08/Calculator/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson06_22.08/Calculator/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson06_22.08/Calculator/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson06_22.08/Calculator/Calculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson06_22.08/Calculator/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson06_22.08/Transformation/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson06_22.08/Transformation/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson06_22.08/Transformation/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson06_22.08/Transformation/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson06_22.08/Transformation/Transformation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson06_22.08/Transformation/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson11_11.09/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson11_11.09/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson11_11.09/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson11_11.09/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson11_11.09/Lesson11_11.09.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson11_11.09/src/JavaFxTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson14_21.09/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson14_21.09/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson14_21.09/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson14_21.09/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson14_21.09/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson14_21.09/Lesson14_21.09.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson14_21.09/src/SimpleDeposit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson14_21.09/src/com/company/bank/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson14_21.09/src/com/company/bank/BankRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson14_21.09/src/com/company/bank/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson14_21.09/src/com/company/bank/CompoundPercentDeposit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson14_21.09/src/com/company/bank/Deposit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson14_21.09/src/com/company/bank/GoldClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson14_21.09/src/com/company/bank/RegularClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson14_21.09/src/com/company/bank/SimplePercentDeposit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson14_21.09/src/com/company/bank/VipClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson15_25.09/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson15_25.09/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson15_25.09/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson15_25.09/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson15_25.09/Lesson15_25.09.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson16_28.09/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson16_28.09/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson16_28.09/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson16_28.09/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson16_28.09/Lesson16_28.09.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson16_28.09/src/School/School.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson16_28.09/src/School/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson16_28.09/src/School/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practice/Module2/Task01/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practice/Module2/Task01/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practice/Module2/Task01/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practice/Module2/Task01/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practice/Module2/Task01/Task01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practice/Module2/Task01/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practice/Module2/Task02/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practice/Module2/Task02/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practice/Module2/Task02/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practice/Module2/Task02/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practice/Module2/Task02/Task02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practice/Module2/Task02/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practice/Module2/Task03/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practice/Module2/Task03/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practice/Module2/Task03/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practice/Module2/Task03/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practice/Module2/Task03/Task03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practice/Module2/Task03/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practice/Module2/Task04/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practice/Module2/Task04/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practice/Module2/Task05/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practice/Module2/Task05/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practice/Module2/Task06/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practice/Module2/Task06/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practice/Module2/Task06/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practice/Module2/Task06/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practice/Module2/Task06/Task06.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practice/Module2/Task06/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practice/Module2/Task07/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practice/Module2/Task07/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practice/Module2/Task07/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practice/Module2/Task07/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practice/Module2/Task07/Task07.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practice/Module2/Task07/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practice/Module4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practice/Module4/src/Task01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practice/Module4/src/Task02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practice/Module4/src/Task03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/.idea/TEST.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/AnimalsTest/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/AnimalsTest/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/AnimalsTest/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/AnimalsTest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/AnimalsTest/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/AnimalsTest/AnimalsTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/AnimalsTest/dogs.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/Lesson9/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/Lesson9/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/Lesson9/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/Lesson9/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/Lesson9/Lesson9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/Theory/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/Theory/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/Theory/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/Theory/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/Theory/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TEST/Theory/Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../YouTubeAnalyzer-master/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../YouTubeAnalyzer-master/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../YouTubeAnalyzer-master/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../YouTubeAnalyzer-master/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../YouTubeAnalyzer-master/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../YouTubeAnalyzer-master/pom.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ко</find>
+      <find>developers</find>
+      <find>developer</find>
+      <find>девелопер</find>
+      <find>девел</find>
+      <find>comp</find>
+      <find>базі</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/entity/Developer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/entity/Company.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Connection.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ConnectionDB.java" />
+        <option value="$PROJECT_DIR$/src/main/java/conn/ConnectionDB.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dao/AbstractDAO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/entity/Customer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dao/CompanyDAO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dao/CustomerDAO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/menu/CompaniesMenu.java" />
+        <option value="$PROJECT_DIR$/src/main/java/menu/PreStartMenu.java" />
+        <option value="$PROJECT_DIR$/src/main/java/App.java" />
+        <option value="$PROJECT_DIR$/src/main/java/entity/Skill.java" />
+        <option value="$PROJECT_DIR$/src/main/java/menu/StartMenu.java" />
+        <option value="$PROJECT_DIR$/src/main/java/menu/CustomersMenu.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dao/DeveloperDAO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/menu/ProjectsMenu.java" />
+        <option value="$PROJECT_DIR$/src/main/java/entity/Project.java" />
+        <option value="$PROJECT_DIR$/src/main/java/menu/OtherMenu.java" />
+        <option value="$PROJECT_DIR$/src/main/java/menu/SkillsMenu.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dao/SkillDAO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dao/ProjectDAO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/service/ConnectionDB.java" />
+        <option value="$PROJECT_DIR$/src/main/java/menu/DevelopersMenu.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Java Developer_HomeWork_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java Developer_HomeWork_2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java Developer_HomeWork_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java Developer_HomeWork_2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java Developer_HomeWork_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java Developer_HomeWork_2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java Developer_HomeWork_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java Developer_HomeWork_2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547396204142" />
+    <property name="last_opened_file_path" value="D:/Саша/Програмування/Java/GoJava Developer/JDBC/Last_Lesson" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="copyright" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="entity" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="menu" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="App" />
+      <module name="Java Developer_HomeWork_2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e152534-aedd-43aa-b5b4-dcabf73b5271" name="Default Changelist" comment="" />
+      <created>1546803889523</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546803889523</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22390318" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="DB Browser" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Project Explorer" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info id="Job Explorer" order="9" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.51797384" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="DB Execution Console" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32843137" />
+      <window_info anchor="bottom" id="Console" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24962178" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/DAO.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Connection.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/dao/AbstractDAO.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/8.0.13/mysql-connector-java-8.0.13.jar!/com/mysql/cj/jdbc/exceptions/SQLError.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-306" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dao/CompanyDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="method#CompanyDAO#0;class#CompanyDAO#0" />
+            <element signature="method#initDbDriver#0;class#CompanyDAO#0" />
+            <element signature="method#initConnection#0;class#CompanyDAO#0" />
+            <element signature="method#initPreparedStatements#0;class#CompanyDAO#0" />
+            <element signature="method#createCompany#0;class#CompanyDAO#0" />
+            <element signature="method#getCompanyById#0;class#CompanyDAO#0" />
+            <element signature="method#getAllCompanies#0;class#CompanyDAO#0" />
+            <element signature="method#closeResultSet#0;class#CompanyDAO#0" />
+            <element signature="method#updateCompany#0;class#CompanyDAO#0" />
+            <element signature="method#deleteCompanyById#0;class#CompanyDAO#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dao/CustomerDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="method#CustomerDAO#0;class#CustomerDAO#0" />
+            <element signature="method#initDbDriver#0;class#CustomerDAO#0" />
+            <element signature="method#initConnection#0;class#CustomerDAO#0" />
+            <element signature="method#initPreparedStatements#0;class#CustomerDAO#0" />
+            <element signature="method#createCustomer#0;class#CustomerDAO#0" />
+            <element signature="method#getCustomerById#0;class#CustomerDAO#0" />
+            <element signature="method#getAllCustomers#0;class#CustomerDAO#0" />
+            <element signature="method#closeResultSet#0;class#CustomerDAO#0" />
+            <element signature="method#updateCustomer#0;class#CustomerDAO#0" />
+            <element signature="method#deleteCustomerById#0;class#CustomerDAO#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dao/DeveloperDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="method#DeveloperDAO#0;class#DeveloperDAO#0" />
+            <element signature="method#initDbDriver#0;class#DeveloperDAO#0" />
+            <element signature="method#initConnection#0;class#DeveloperDAO#0" />
+            <element signature="method#initPreparedStatements#0;class#DeveloperDAO#0" />
+            <element signature="method#createDeveloper#0;class#DeveloperDAO#0" />
+            <element signature="method#getDeveloperById#0;class#DeveloperDAO#0" />
+            <element signature="method#getDevelopersFromCompanyByProjectId#0;class#DeveloperDAO#0" />
+            <element signature="method#getAllDevelopers#0;class#DeveloperDAO#0" />
+            <element signature="method#closeResultSet#0;class#DeveloperDAO#0" />
+            <element signature="method#updateDeveloper#0;class#DeveloperDAO#0" />
+            <element signature="method#deleteDeveloperById#0;class#DeveloperDAO#0" />
+            <element signature="method#getSumDevelopersSalaryInProjectByProjectId#0;class#DeveloperDAO#0" />
+            <element signature="method#getAllDevelopersByProjectId#0;class#DeveloperDAO#0" />
+            <element signature="method#getAllJavaDevelopers#0;class#DeveloperDAO#0" />
+            <element signature="method#getAllMiddleDevelopers#0;class#DeveloperDAO#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dao/ProjectDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="method#ProjectDAO#0;class#ProjectDAO#0" />
+            <element signature="method#initDbDriver#0;class#ProjectDAO#0" />
+            <element signature="method#initConnection#0;class#ProjectDAO#0" />
+            <element signature="method#initPreparedStatements#0;class#ProjectDAO#0" />
+            <element signature="method#createProject#0;class#ProjectDAO#0" />
+            <element signature="method#getProjectById#0;class#ProjectDAO#0" />
+            <element signature="method#getAllProjects#0;class#ProjectDAO#0" />
+            <element signature="method#closeResultSet#0;class#ProjectDAO#0" />
+            <element signature="method#updateProjectById#0;class#ProjectDAO#0" />
+            <element signature="e#3748#4068#0" />
+            <element signature="method#deleteProjectById#0;class#ProjectDAO#0" />
+            <element signature="method#assignDeveloperToProject#0;class#ProjectDAO#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dao/SkillDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="method#SkillDAO#0;class#SkillDAO#0" />
+            <element signature="method#initDbDriver#0;class#SkillDAO#0" />
+            <element signature="method#initConnection#0;class#SkillDAO#0" />
+            <element signature="method#initPreparedStatements#0;class#SkillDAO#0" />
+            <element signature="method#createSkill#0;class#SkillDAO#0" />
+            <element signature="method#getSkillById#0;class#SkillDAO#0" />
+            <element signature="method#getAllSkills#0;class#SkillDAO#0" />
+            <element signature="method#closeResultSet#0;class#SkillDAO#0" />
+            <element signature="method#updateSkill#0;class#SkillDAO#0" />
+            <element signature="method#deleteSkillById#0;class#SkillDAO#0" />
+            <element signature="method#getSkillsByDeveloperId#0;class#SkillDAO#0" />
+            <element signature="method#assignSkillToDeveloper#0;class#SkillDAO#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/entity/Skill.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="36" column="1" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+          <folding>
+            <element signature="method#toString#0;class#Skill#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/entity/Project.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="method#toString#0;class#Project#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/entity/Developer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="method#toString#0;class#Developer#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/entity/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="method#toString#0;class#Customer#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/entity/Company.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="method#toString#0;class#Company#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/service/ConnectionDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/menu/DevelopersMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="method#show#0;class#DevelopersMenu#0" />
+            <element signature="method#createDeveloper#0;class#DevelopersMenu#0" />
+            <element signature="method#getDeveloperById#0;class#DevelopersMenu#0" />
+            <element signature="method#getAllDevelopers#0;class#DevelopersMenu#0" />
+            <element signature="method#updateDeveloperById#0;class#DevelopersMenu#0" />
+            <element signature="method#checkExistingIdCompany#0;class#DevelopersMenu#0" />
+            <element signature="method#deleteDeveloperById#0;class#DevelopersMenu#0" />
+            <element signature="method#getSkillsByDeveloperId#0;class#DevelopersMenu#0" />
+            <element signature="method#assignSkillToDeveloper#0;class#DevelopersMenu#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/menu/CustomersMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="method#show#0;class#CustomersMenu#0" />
+            <element signature="method#createCustomer#0;class#CustomersMenu#0" />
+            <element signature="method#getCustomerById#0;class#CustomersMenu#0" />
+            <element signature="method#getAllCustomers#0;class#CustomersMenu#0" />
+            <element signature="method#updateCustomerById#0;class#CustomersMenu#0" />
+            <element signature="method#deleteCustomerById#0;class#CustomersMenu#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/menu/CompaniesMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="method#show#0;class#CompaniesMenu#0" />
+            <element signature="method#createCompany#0;class#CompaniesMenu#0" />
+            <element signature="method#getCompanyById#0;class#CompaniesMenu#0" />
+            <element signature="method#getAllCompanies#0;class#CompaniesMenu#0" />
+            <element signature="method#updateCompanyById#0;class#CompaniesMenu#0" />
+            <element signature="method#deleteCompanyById#0;class#CompaniesMenu#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/menu/OtherMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="method#show#0;class#OtherMenu#0" />
+            <element signature="method#getSumDevelopersSalaryInProjectByProjectId#0;class#OtherMenu#0" />
+            <element signature="method#getAllDevelopersByProjectId#0;class#OtherMenu#0" />
+            <element signature="method#getAllJavaDevelopers#0;class#OtherMenu#0" />
+            <element signature="method#getAllMiddleDevelopers#0;class#OtherMenu#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/menu/PreStartMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="method#PreStartMenu#0;class#PreStartMenu#0" />
+            <element signature="method#show#0;class#PreStartMenu#0" />
+            <element signature="method#currentSettingsWithoutPass#0;class#PreStartMenu#0" />
+            <element signature="method#currentSettingsWithPass#0;class#PreStartMenu#0" />
+            <element signature="method#changeDB#0;class#PreStartMenu#0" />
+            <element signature="method#changeLogin#0;class#PreStartMenu#0" />
+            <element signature="method#changePass#0;class#PreStartMenu#0" />
+            <element signature="method#returnSettings#0;class#PreStartMenu#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/menu/ProjectsMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="method#show#0;class#ProjectsMenu#0" />
+            <element signature="method#createProject#0;class#ProjectsMenu#0" />
+            <element signature="method#getProjectById#0;class#ProjectsMenu#0" />
+            <element signature="method#getAllProjects#0;class#ProjectsMenu#0" />
+            <element signature="method#updateProjectById#0;class#ProjectsMenu#0" />
+            <element signature="method#deleteProjectById#0;class#ProjectsMenu#0" />
+            <element signature="method#assignDeveloperToProject#0;class#ProjectsMenu#0" />
+            <element signature="method#checkExistingIdCompany#0;class#ProjectsMenu#0" />
+            <element signature="method#checkExistingIdCustomer#0;class#ProjectsMenu#0" />
+            <element signature="method#showExistingDevelopersInCompany#0;class#ProjectsMenu#0" />
+            <element signature="method#inputDeveloper#0;class#ProjectsMenu#0" />
+            <element signature="method#checkExistingIdDeveloperInCompany#0;class#ProjectsMenu#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/menu/SkillsMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="method#show#0;class#SkillsMenu#0" />
+            <element signature="method#createSkill#0;class#SkillsMenu#0" />
+            <element signature="method#getSkillById#0;class#SkillsMenu#0" />
+            <element signature="method#getAllSkills#0;class#SkillsMenu#0" />
+            <element signature="method#updateSkillById#0;class#SkillsMenu#0" />
+            <element signature="method#deleteSkillById#0;class#SkillsMenu#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/menu/StartMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="method#show#0;class#StartMenu#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Java Developer_HomeWork_2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.google.protobuf:protobuf-java:3.6.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
